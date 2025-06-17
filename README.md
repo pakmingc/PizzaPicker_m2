@@ -10,11 +10,11 @@
 ## 🎮 Game Preview
 
 <div align="center">
-  <img src="images/gameplay1.png" alt="Pizza Picker Gameplay" width="800">
+  <img src="images/Pizza_game.jpg" alt="Pizza Picker Gameplay" width="800">
   <br/>
   <em>Navigate through the highway collecting pizzas!</em>
   <br/><br/>
-  <img src="images/gameplay2.png" alt="Pizza Picker Delivery" width="800">
+  <img src="images/pizza_1.jpg" alt="Pizza Picker Delivery" width="800">
   <br/>
   <em>Avoid obstacles and manage your deliveries!</em>
 </div>
