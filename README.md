@@ -7,6 +7,18 @@
   ### Race against time to deliver pizzas and avoid obstacles! 🏃‍♂️💨
 </div>
 
+## 🎮 Game Preview
+
+<div align="center">
+  <img src="images/gameplay1.png" alt="Pizza Picker Gameplay" width="800">
+  <br/>
+  <em>Navigate through the highway collecting pizzas!</em>
+  <br/><br/>
+  <img src="images/gameplay2.png" alt="Pizza Picker Delivery" width="800">
+  <br/>
+  <em>Avoid obstacles and manage your deliveries!</em>
+</div>
+
 ## 🎮 Game Overview
 
 Pizza Picker is an exciting arcade-style delivery game where you control a delivery van on a mission to collect and deliver pizzas while avoiding obstacles. Test your reflexes and strategic thinking as you navigate through challenging paths!
