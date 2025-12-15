@@ -84,6 +84,4 @@ Achieve the highest score possible by collecting pizzas while skillfully avoidin
 
 <div align="center">
   <h3>🎮 Ready to become the ultimate pizza delivery champion? Start playing now! 🏆</h3>
-  
-  Created with ❤️ by Pak Ming Cheung
 </div>
